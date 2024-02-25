@@ -17,6 +17,12 @@ public class Shyam {
 	
 	System.out.println("good Morning");
 	System.out.println("good Evening");
+	System.out.println("hai");
+	System.out.println("hello");
+	System.out.println("bye");
+	System.out.println("good afternoon");
+	System.out.println("good night");
+
 	}
 	
 	
