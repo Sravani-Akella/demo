@@ -11,7 +11,9 @@ public class Shyam {
 	public static void main(String[] args) {
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver=new ChromeDriver();
+		
 		driver.get("https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html");
+	System.out.println(driver.getTitle());
 	}
 	
 	
