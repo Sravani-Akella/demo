@@ -22,6 +22,8 @@ public class Shyam {
 	System.out.println("bye");
 	System.out.println("good afternoon");
 	System.out.println("good night");
+	System.out.println("are u there");
+	System.out.println("I am going out");
 
 	}
 	
